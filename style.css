@@ -1,0 +1,14 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 50px 50px 120px;
+    background-color: #FFFFFF;
+    border: 2px;
+    border-style: dotted;
+}
+
+.grid-item {
+    background-color: gainsboro;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 4px;
+}
